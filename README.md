@@ -1,3 +1,4 @@
+
 <!-- Profile README for PAVAN R -->
 
 <h1 align="center">Hi, I'm PAVAN R 👋</h1>
@@ -63,3 +64,69 @@ A responsive, static webpage inspired by Shaadi.com's UI.
 git clone https://github.com/<your-username>/shaadi-clone.git
 cd shaadi-clone
 # open index.html in your browser
+````
+
+---
+
+### 🔹 To-Do Tracker — Full-Stack Capstone
+
+A practical task manager focusing on clean architecture, testing, and deployability.
+
+* Features: CRUD for tasks, due dates, status filters, and basic analytics
+* Stack idea: **React** + **REST API (Java/Python)** + **SQL DB**
+* Testing: **Selenium** (UI), **REST Assured/Karate** (API)
+* Roadmap: containerization, CI checks, test coverage badge
+
+**Planned Repo Structure**
+
+```
+to-do-tracker/
+  ├─ frontend/         # React app
+  ├─ backend/          # REST API (Java Spring Boot or Python FastAPI)
+  ├─ database/         # schema & seed
+  ├─ tests/            # UI & API tests
+  └─ docs/             # diagrams & ADRs
+```
+
+---
+
+## 📊 GitHub Stats (auto)
+
+> Replace `<your-username>` with your GitHub handle.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>\&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=<your-username>\&show_icons=true)
+
+---
+
+## 🗂️ Repos to Check
+
+* [`shaadi-clone`](https://github.com/<your-username>/shaadi-clone) — static UI project
+* [`to-do-tracker`](https://github.com/<your-username>/to-do-tracker) — capstone app (WIP)
+* [`sql-bookstore`](https://github.com/<your-username>/sql-bookstore) — sample DB design and queries
+
+---
+
+## 📝 Education
+
+* **B.E. (Mechanical Engineering)** — Jawaharlal Nehru New College of Engineering (2024)
+* **Java Full-Stack Developer** — NIIT
+
+---
+
+## 📫 Contact
+
+* **Email:** [pavanryavdavkumsi25@gmail.com](mailto:pavanryavdavkumsi25@gmail.com)
+* **Languages:** English, Kannada, Hindi
+
+---
+
+### 🤝 Open to:
+
+* Entry-level Software Developer / QA roles
+* Web app projects (frontend, backend, or testing)
+* Collaborations on open-source tools and learning resources
+
+```
+
+
